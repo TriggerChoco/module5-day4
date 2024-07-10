@@ -16,4 +16,4 @@ export default function handler(req, res) {
   } else {
     res.status(404).json({ message: "We only support GET requests" });
   }
-} sdkjskjnfsj;
+}
